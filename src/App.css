@@ -1,0 +1,17 @@
+li {
+  list-style: none;
+}
+link {
+  color: white;
+}
+.nav ul {
+  background-color: teal;
+  width: 100%;
+  display: flex;
+  padding: 20px;
+}
+.nav a {
+  color: black;
+  font-size: 18px;
+  margin-left: 10px;
+}
