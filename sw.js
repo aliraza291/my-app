@@ -7,7 +7,9 @@ this.addEventListener("install", (event)=>{
                 "/static/js/0.chunk.js",
                 "/static/js/main.chunk.js",
                 "/index.html",
-                "/"
+                "/",
+                "Home.js",
+                "User.js"
 
             ])
 
